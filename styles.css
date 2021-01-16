@@ -1,0 +1,10 @@
+body {
+    background-image: url('indexPage.png');
+}
+div{
+    position: relative;
+    top: 750px;
+    right: -900px;
+    height: 300px;
+    width: 500px;
+}
